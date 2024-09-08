@@ -27,7 +27,6 @@
     "@nuxtjs/eslint-module": "^4.1.0",
     "@nuxtjs/seo": "^2.0.0-rc.21",
     "@nuxtjs/tailwindcss": "^6.12.1",
-    "@pinia/nuxt": "^0.5.4",
     "typescript": "^5.5.4"
   }
 }
